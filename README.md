@@ -3,8 +3,8 @@
 - Pronouns: She/Her
 
 
-### Main Languages
 
+### Main Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Thomas-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   </div>
